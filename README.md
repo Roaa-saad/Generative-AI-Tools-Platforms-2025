@@ -4,7 +4,7 @@ An interactive Power BI dashboard exploring the landscape of **Generative AI too
 
 ---
 
-## 🔹 Overview
+##  Overview
 
 This project analyzes 113 AI tools from 83 companies, focusing on:
 
@@ -16,7 +16,7 @@ This project analyzes 113 AI tools from 83 companies, focusing on:
 
 ---
 
-## 🔹 Key Metrics
+##  Key Metrics
 
 - **Total AI Tools:** 113  
 - **Companies:** 83  
@@ -38,7 +38,7 @@ This project analyzes 113 AI tools from 83 companies, focusing on:
 
 ---
 
-## 🔹 Insights
+##  Insights
 
 - Rapid growth from 2020–2025 indicates a strong innovation phase in Generative AI.  
 - Dominance of multimodal and code-generation tools reflects demand for **versatile, developer-oriented solutions**.  
@@ -49,7 +49,7 @@ This project analyzes 113 AI tools from 83 companies, focusing on:
 
 ---
 
-## 🔹 Dashboard Features
+## Dashboard Features
 
 1. **Growth of AI Tools Over Time** – Visualizes tool creation trends from 2020–2025.  
 2. **Generative AI Tools by Modality** – Shows which types of content AI tools support.  
@@ -60,7 +60,7 @@ This project analyzes 113 AI tools from 83 companies, focusing on:
 
 ---
 
-## 🔹 Technologies Used
+## Technologies Used
 
 - **Power BI** – Dashboard creation and interactive visualizations  
 - **Excel / CSV** – Data sources and preprocessing  
@@ -68,7 +68,7 @@ This project analyzes 113 AI tools from 83 companies, focusing on:
 
 ---
 
-## 🔹 How to Use
+## How to Use
 
 1. Download the `.pbix` Power BI file from this repository.  
 2. Open the file in **Power BI Desktop**.  
@@ -76,10 +76,20 @@ This project analyzes 113 AI tools from 83 companies, focusing on:
 
 ---
 
-## 🔹 Screenshots
+## 🔹 Dashboard Screenshots
 
-![Dashboard Screenshot 1](./screenshots/dashboard_overview.png)  
-![Dashboard Screenshot 2](./screenshots/dashboard_details.png)  
+### Home Page
+![Home Page](https://github.com/Roaa-saad/Generative-AI-Tools-Platforms-2025/blob/main/Screenshot%202025-10-03%20000421.png?raw=true)
+
+### Tools Overview
+![Tools Overview](https://github.com/Roaa-saad/Generative-AI-Tools-Platforms-2025/blob/main/Screenshot%202025-10-03%20000444.png?raw=true)
+
+### Tools Details Page
+![Tools Details](https://github.com/Roaa-saad/Generative-AI-Tools-Platforms-2025/blob/main/Screenshot%202025-10-03%20000459.png?raw=true)
+
+### Summary Page
+![Summary Page](https://github.com/Roaa-saad/Generative-AI-Tools-Platforms-2025/blob/main/Screenshot%202025-10-03%20000532.png?raw=true)
+ 
 
 ---
 
