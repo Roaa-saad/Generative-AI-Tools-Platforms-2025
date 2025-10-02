@@ -60,23 +60,7 @@ This project analyzes 113 AI tools from 83 companies, focusing on:
 
 ---
 
-## Technologies Used
-
-- **Power BI** – Dashboard creation and interactive visualizations  
-- **Excel / CSV** – Data sources and preprocessing  
-- **DAX** – Calculated measures for KPIs  
-
----
-
-## How to Use
-
-1. Download the `.pbix` Power BI file from this repository.  
-2. Open the file in **Power BI Desktop**.  
-3. Explore visuals interactively or export to PDF for reporting.  
-
----
-
-## 🔹 Dashboard Screenshots
+## Dashboard Screenshots
 
 ### Home Page
 ![Home Page](https://github.com/Roaa-saad/Generative-AI-Tools-Platforms-2025/blob/main/Screenshot%202025-10-03%20000421.png?raw=true)
@@ -93,5 +77,5 @@ This project analyzes 113 AI tools from 83 companies, focusing on:
 
 ---
 
-## 🔹 Repository Contents
+
 
